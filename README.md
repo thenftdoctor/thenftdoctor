@@ -1,4 +1,5 @@
-Hi, I’m @thenftdoctor. By training I'm a nuclear radiologist, clinical researcher and clinical epidemiologyst (MD PhD MSc).
+Hi, I’m @thenftdoctor. 
+By training I'm a nuclear radiologist, clinical researcher and clinical epidemiologyst (MD PhD MSc).
 
 I enjoy learning to code (HTML, CSS, js, python, rust, R) and I'm fascinated by blockchain technology.
 
